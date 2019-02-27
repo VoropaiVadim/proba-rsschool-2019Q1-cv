@@ -1,13 +1,14 @@
 
-<p align="center"><em>Grodno, &nbsp; Republic of Belarus  <em> 
+<p align="center"><em>Grodno, &nbsp; Republic of Belarus  </em></p> 
 
 <center> 
   <p>(+375 29) 788 23 43 | &nbsp;vadim@mail.ru | &nbsp;Srype: vvadim23  </p>
   </center>  
  <h1 align="center">VOROPAI VADIM</h1>
- <em><h3 align="center">Junior developer</h3></em>
+ <em><h3 align="center">Junior developer</h3>
+ </em>
 
- <p align="center"><em>-------- gwork experience < 1 year ------- </em></p> 
+
 
 ## Techical skills 
 
