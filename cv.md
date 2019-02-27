@@ -4,7 +4,9 @@
 <center> 
   <p>(+375 29) 788 23 43 | &nbsp;vadim@mail.ru | &nbsp;Srype: vvadim23  </p>
   </center>  
- <h1 align="center">VOROPAI VADIM</h1>
+ <h1 align="center">VOROPAI VADIM</h1> 
+ <p align="center"><em>work experience <strong>Junior Developer < 1 year</strong> </em> 
+</p>
  
 
 
@@ -65,6 +67,7 @@ online courses, &nbsp; Republic of Belarus (2019 - .... year)
 >* English A 2 (Enough for tourist travel and communication with native English speakers)  
 
 >* Polish- B1 (certified by languadge school) 
+
 ****
 
 <p align="center"><em>Grodno, &nbsp; Republic of Belarus  </em> 
