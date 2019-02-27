@@ -7,7 +7,7 @@
  <h1 align="center">VOROPAI VADIM</h1>
  <em><h3 align="center">Junior developer</h3></em>
 
- <p align="center"><em>-------- gwork experience < 1 year ------- <em> 
+ <p align="center"><em>-------- gwork experience < 1 year ------- </em></p> 
 
 <br>
 
