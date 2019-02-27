@@ -64,10 +64,10 @@ online courses, &nbsp; Republic of Belarus (2019 - .... year)
 >* Polish- B1 (certified by languadge school) 
 ****
 
-<p align="center"><em>Grodno, &nbsp; Republic of Belarus  <em> 
+<p align="center"><em>Grodno, &nbsp; Republic of Belarus  </em> 
 </p>
 <center> 
   <p>(+375 29) 788 23 43 | &nbsp;vadim@mail.ru | &nbsp;Srype: vvadim23  </p>
   </center>  
-  
+
 ***
