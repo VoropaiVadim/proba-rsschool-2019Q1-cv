@@ -1,6 +1,6 @@
 
 <p align="center"><em>Grodno, &nbsp; Republic of Belarus  <em> 
-</p>
+
 <center> 
   <p>(+375 29) 788 23 43 | &nbsp;vadim@mail.ru | &nbsp;Srype: vvadim23  </p>
   </center>  
@@ -8,12 +8,14 @@
  <em><h3 align="center">Junior developer</h3></em>
 
  <p align="center"><em>-------- gwork experience < 1 year ------- <em> 
-</p>
+
 <br>
 
 
 ## - Techical skills -
+
 ***
+
  >*  *HTML5*
  >*  *JavaScript*
  >*  *Photoshop, Illustrator*
@@ -22,7 +24,9 @@
  
  
  ## - Education -
+
 ***
+
 Minsk, &nbsp; Republic of Belarus (2000 - 2005 year) 
 >* *["BELARUSIAN NATIONAL TECHNICAL UNIVERSITY"](https://www.codecademy.com/users/VoropaiVadim/achievementshttps://en.bntu.by/)*
 
@@ -36,6 +40,7 @@ online courses, &nbsp; Republic of Belarus (2019 - .... year)
 ## - Summary -
 
 ***
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New to programming. I want to work in the programming field of a reliable company in order to use my skills and abilities that I gained from previous work experience and courses.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Work junior. I want to work as a junior with the practical application of my experience and skills.
