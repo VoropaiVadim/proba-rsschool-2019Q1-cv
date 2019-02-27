@@ -9,10 +9,7 @@
 
  <p align="center"><em>-------- gwork experience < 1 year ------- </em></p> 
 
-<br>
-
-
-## - Techical skills -
+## Techical skills 
 
 ***
 
