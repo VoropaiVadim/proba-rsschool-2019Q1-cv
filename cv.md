@@ -9,7 +9,7 @@
 
 
 
-## Techical skills 
+## - Techical skills - 
 
 ***
 
@@ -20,7 +20,7 @@
    >*  *Markdoun*
  
  
- ## Education 
+## - Education -  
 
 ***
 
@@ -34,7 +34,7 @@ Minsk, &nbsp; Republic of Belarus (2005 - 2009 year)
 online courses, &nbsp; Republic of Belarus (2019 - .... year) 
 >* *["Codecademy"](https://www.codecademy.com/)
 
-## Summary 
+## - Summary - 
 
 ***
 
@@ -46,7 +46,8 @@ online courses, &nbsp; Republic of Belarus (2019 - .... year)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Work junior. I have about a year of experience in this field of activity, a diligent, hardworking and with unusual responsibility, a  junior developer.
 
-## Experience 
+
+## - Experience - 
 
 ***
 >*  *[Codecademy](https://www.codecademy.com/users/VoropaiVadim/achievements)*
@@ -55,7 +56,9 @@ online courses, &nbsp; Republic of Belarus (2019 - .... year)
 >*  *Development of project documentation*
 >*  *Quality control of work performed*
 
-## Languages
+## - Languages -
+
+****
  
 >* Belarussian, Russian - native  
 
