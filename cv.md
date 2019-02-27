@@ -1,95 +1,71 @@
 
- <h1 align="center">CV Eugenia Shibkova</h1>
-<em align="center">pre-junior frontend developer</em>
+<p align="center"><em>Grodno, &nbsp; Republic of Belarus  <em> 
+</p>
+<center> 
+  <p>(+375 29) 788 23 43 | &nbsp;vadim@mail.ru | &nbsp;Srype: vvadim23  </p>
+  </center>  
+ <h1 align="center">VOROPAI VADIM</h1>
+ <em><h3 align="center">Junior developer</h3></em>
 
-
-
-
-
- | I'm centered! |
-#  `Воропай Вадим Иванович`
-[![Alt text](//placehold.it/150x100)](http://example.com/)
-
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwihmpL63NngAhWiwMQBHVEbA6QQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.vokrug.tv%252Fperson%252Fshow%252Fleonardo_dicaprio%252F%26psig%3DAOvVaw0zHJG9Oe78Ts7JUCn-xJms%26ust%3D1551281729858182&psig=AOvVaw0zHJG9Oe78Ts7JUCn-xJms&ust=1551281729858182)
-.
-
-
--> `This is center aligned`
-
-_italic_ и это тоже *italic*. А вот так уже __strong__, и так тоже **strong**. А так ***жирный и наклонный*** одновременно.
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-|| 
-|:--:| 
-| I'm centered! |
-
-***
-```()  ```
-
-```\!```, чтобы отобразить \!.
-
-Заголовок первого `<html class="ie no-js">` уровня 
-***
-
-
- 
-Заголовок второго уровня
-------------------------
-# Заголовок 6
- 
-Настал черёд, мои друзья, поговорить
-о королях... Это обычный
-параграф.
-
- 
-### Заголовок 3
- 
-> Это цитата
-> 
-> Это второй параграф в цитате
->
-> ## Это заголовок второго уровня в цитате.
-Некоторые из этих слов *выделены*.
-Некоторые из этих слов _тоже выделены_.
- 
-Используйте две звёздочки для **сильного выделения**.
-Или используйте __два подчёркивания__.
-Фамилия Имя / Name Last Name
-– Контакты / Contacts
-– Цель / Objective
-– Summary
-– Навыки / Skills
-– Опыт работы / Experience
-– Образование / Education
-– Дополнительная информация / Additional information
-
-> [!NOTE]
-> Information the user should notice even if skimming.
-
-[Microsoft](https://www.microsoft.com)
-[!div class="checklist"]
-> * List item 1
-> * List item 2
-> * List item 3
-> * List item 1
-
-|This is       |a simple     |table header|      
-|----------|----------|------------|
-
-|T123123121222 2222 2321321|
-|--------------------------------|
-
+ <p align="center"><em>-------- gwork experience < 1 year ------- <em> 
+</p>
 <br>
 
-| Heading 1        |       1        | Heading 3 |  
-|-----------|:---------------------|-----------:|  
-| Cell A1 | Cell A2 | Cell A3 |  
-| Cell B1 | Cell B2 | Cell B3<br/>second line of text |  
 
-| Event         | Platform      | Description |
-| ------------- |-----------| -----:|
-| `122`| `````566`````
+## - Techical skills -
+***
+ >*  *HTML5*
+ >*  *JavaScript*
+ >*  *Photoshop, Illustrator*
+  >* *Git*
+   >*  *Markdoun*
+ 
+ 
+ ## - Education -
+***
+Minsk, &nbsp; Republic of Belarus (2000 - 2005 year) 
+>* *["BELARUSIAN NATIONAL TECHNICAL UNIVERSITY"](https://www.codecademy.com/users/VoropaiVadim/achievementshttps://en.bntu.by/)*
+
+ 
+Minsk, &nbsp; Republic of Belarus (2005 - 2009 year) 
+>* *["Belarusian State University"](https://www.bsu.by/)*
+
+online courses, &nbsp; Republic of Belarus (2019 - .... year) 
+>* *["Codecademy"](https://www.codecademy.com/)
+
+## - Summary -
+
+***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New to programming. I want to work in the programming field of a reliable company in order to use my skills and abilities that I gained from previous work experience and courses.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Work junior. I want to work as a junior with the practical application of my experience and skills.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I come to work so that you understand my enthusiasm, high efficiency, experience and responsibility.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Work junior. I have about a year of experience in this field of activity, a diligent, hardworking and with unusual responsibility, a  junior developer.
+
+## - Experience -
+
+***
+>*  *[Codecademy](https://www.codecademy.com/users/VoropaiVadim/achievements)*
+ >*  *[HTML academy](https://htmlacademy.ru/profile/id1016365/achievements)*
+
+>*  *Development of project documentation*
+>*  *Quality control of work performed*
+
+## - Languages-
+ 
+>* Belarussian, Russian - native  
+
+>* English A 2 (Enough for tourist travel and communication with native English speakers)  
+
+>* Polish- B1 (certified by languadge school) 
+****
+
+<p align="center"><em>Grodno, &nbsp; Republic of Belarus  <em> 
+</p>
+<center> 
+  <p>(+375 29) 788 23 43 | &nbsp;vadim@mail.ru | &nbsp;Srype: vvadim23  </p>
+  </center>  
+
+***
